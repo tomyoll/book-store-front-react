@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### .env
+
+Еру first thing you need to do is create .env file in root directory and fill it like .env.example file
+
 ## Available Scripts
 
 In the project directory, you can run:
